@@ -10,18 +10,20 @@ Setup Instructions:
 4.Start the development server with expo start.
 
 App Screenshots:
-![App Screenshot](./assets/screenshots/app4.jpeg)
-![App Screenshot](./assets/screenshots/app5.jpeg)
-![App Screenshot](./assets/screenshots/app6.jpeg)
-![App Screenshot](./assets/screenshots/app7.jpeg)
-![App Screenshot](./assets/screenshots/app8.jpeg)
+![App Screenshot](./assets/screenshots/app1(1).png)
+![App Screenshot](./assets/screenshots/app1(2).png)
+![App Screenshot](./assets/screenshots/app1(3).png)
+![App Screenshot](./assets/screenshots/app1(4).png)
+![App Screenshot](./assets/screenshots/app1(5).png)
+![App Screenshot](./assets/screenshots/app1(6).png)
+![App Screenshot](./assets/screenshots/app1(7).png)
 
 
 ## Appetize.io Demo
 
 You can interactively preview our app using Appetize.io. Click the link below to launch the demo:
 
-[Launch the Appetize.io Demo](https://appetize.io/app/4d66oiuprt7f2wjhfdnkvyi6tu?device=pixel7&osVersion=13.0)
+[Launch the Appetize.io Demo](https://appetize.io/app/moermn5i25dclf2tuq5a5uz2dy?device=pixel7&osVersion=13.0)
 
 
 Features

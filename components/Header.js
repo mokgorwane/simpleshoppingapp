@@ -1,24 +1,34 @@
 import React from 'react'
-import { View,Text,StyleSheet } from 'react-native'
+import { View,Text,StyleSheet } from 'react-native';
+import { AntDesign } from '@expo/vector-icons';
 
 export default function Header() {
   return (
     <View style={Styles.header}>
-        <Text style={Styles.headerText}>Simple Shopping App</Text>
+        <Text style={Styles.headerText}>
+          <Text>Sneaker</Text>
+          <AntDesign name="close" size={34} color="red" />
+          <Text>Collector</Text>
+        </Text>
     </View>
   )
 }
 
 const Styles = StyleSheet.create({
     header: {
-        marginTop: 20,
-        padding: 10,
-        backgroundColor: 'coral',
+        height: 80,
+        flexDirection: 'row',
+        backgroundColor: 'black',
         alignItems : 'center',
-        justifyContent : 'center',
-        color: 'white'
+        justifyContent : 'flex-start',
+        color: 'black',
+        borderRadiusBottomLeft: 5,
+        marginBottom: 7,
     },
     headerText : {
-        fontSize: 18,
+        fontSize: 30,
+        fontWeight: 'bold',
+        marginLeft: 10,
+        color: 'white',
     }
 })
